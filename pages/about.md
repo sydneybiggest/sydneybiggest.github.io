@@ -5,33 +5,43 @@ permalink: "/about/"
 image: assets/images/about-us.jpg
 ---
 
-Bienvenue sur **Horaires Bus** — votre portail en ligne dédié aux itinéraires et horaires des bus en France.
+Welcome to **Sydney Biggest**, your premier online portal for discovering stores and shopping destinations across Australia!
 
-## Notre Mission
+## Who We Are
 
-Chez **Horaires Bus**, notre objectif est clair : offrir une plateforme accessible, rapide et conviviale pour consulter les horaires des bus dans toutes les régions de France. Nous sommes convaincus que l'accès à l'information sur les transports publics est essentiel pour une mobilité fluide et inclusive.
+Sydney Biggest is a dedicated platform designed to help Australians and global visitors explore the vibrant retail landscape of Australia. From the bustling city streets of Sydney to the serene suburbs of Adelaide and everything in between, we bring you detailed insights into the best shops, outlets, boutiques, and local markets.
 
-## Ce que Nous Proposons
+Whether you’re a savvy shopper looking for bargains, a tourist hunting for souvenirs, or a local seeking your next go-to store, Sydney Biggest has something for everyone.
 
-- Horaires à jour pour les lignes de bus régionales et urbaines
-- Itinéraires détaillés avec correspondances possibles
-- Informations sur les arrêts les plus proches
-- Mise à jour continue des données pour garantir leur fiabilité
+## Our Mission
 
-## Nos Engagements
+Our mission is simple:  
 
-- Interface simple et adaptée à tous les appareils
-- Accès libre et sans inscription
-- Mise en valeur des lignes locales parfois négligées par d'autres services
-- Une plateforme pensée entièrement pour les usagers francophones
+**To connect shoppers with the best stores across Australia.**  
 
-## Nous Contacter
+We aim to provide a comprehensive, reliable, and constantly updated guide to retail experiences—from mega malls and department stores to indie brands and hidden gems.
 
-Vous avez une suggestion, une erreur à signaler ou une idée à partager ? N'hésitez pas à nous écrire.
+## What We Offer
 
-Email : `contact@horairesbus.github.io`  
-Site web : [horairesbus.github.io](https://horairesbus.github.io)
+- **Store Listings:** Detailed pages for thousands of stores, categorized by city, type, and brand.
+- **Location Guides:** Maps and navigation tips for easy access.
+- **Shopping Tips:** Articles and updates on seasonal deals, trends, and must-visit locations.
+- **Customer Reviews:** Real feedback from real shoppers to help you make informed decisions.
+- **Store Promotions:** Stay up to date with ongoing promotions, grand openings, and flash sales.
+
+## Why Choose Us?
+
+- 100% Australian-focused content  
+- User-friendly search and navigation  
+- Regularly updated listings  
+- Community-driven reviews and contributions  
+
+## Join the Community
+
+We're more than a directory — we're a community of enthusiastic shoppers and retailers. If you're a business owner looking to list your store or a customer wanting to share your experience, we welcome you to be part of the Sydney Biggest network.
+
+For inquiries or suggestions, feel free to contact us via our [Contact Page](#) or email us at **support@sydneybiggest.com**.
 
 ---
 
-Merci de votre confiance. L'équipe **Horaires Bus**
+Thank you for choosing **Sydney Biggest** — Australia’s largest store portal.
