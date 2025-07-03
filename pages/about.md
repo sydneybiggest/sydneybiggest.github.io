@@ -40,7 +40,7 @@ We aim to provide a comprehensive, reliable, and constantly updated guide to ret
 
 We're more than a directory — we're a community of enthusiastic shoppers and retailers. If you're a business owner looking to list your store or a customer wanting to share your experience, we welcome you to be part of the Sydney Biggest network.
 
-For inquiries or suggestions, feel free to contact us via our [Contact Page](#) or email us at **support@sydneybiggest.com**.
+For inquiries or suggestions, feel free to contact us via our [Contact Page](https://sydneybiggest.github.io/contact/) or email us at **support@sydneybiggest.com**.
 
 ---
 
