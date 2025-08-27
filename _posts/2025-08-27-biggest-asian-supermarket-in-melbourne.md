@@ -13,13 +13,13 @@ These stores extend beyond their role as mere grocery stops; they stand as cultu
 
 ![Crown Asian Supermarket](/assets/images/crown-asian-supermarket.jpg)
 
-**Address:** 385 Elizabeth St, Melbourne VIC 3000, Australia  
-**Phone:** +61 3 9078 4247  
-**Hours:**  
-- Monday – Sunday: 10:00 AM – 10:50 PM  
-**Website:** [Crown Asian](http://www.crownasian.com.au/)  
-**Google Maps:** [Find us here](https://maps.app.goo.gl/QFA8YxMdozDc4Dmf6)  
-**Store Size:** 1,917.86 m² (20,643.62 sq ft)  
+- **Address:** 385 Elizabeth St, Melbourne VIC 3000, Australia  
+- **Phone:** +61 3 9078 4247  
+- **Hours:**  
+  - Monday – Sunday: 10:00 AM – 10:50 PM  
+- **Website:** [Crown Asian](http://www.crownasian.com.au/)  
+- **Google Maps:** [Find us here](https://maps.app.goo.gl/QFA8YxMdozDc4Dmf6)  
+- **Store Size:** 1,917.86 m² (20,643.62 sq ft)  
 
 ### A One-Stop Asian Food Destination
 Crown Asian Supermarket is frequently cited as Melbourne’s largest Asian grocery chain, with outlets situated both in the city centre and across suburban neighbourhoods. The chain’s flagship CBD outlet is vast, stocking an extensive array of products that encompass virtually every Asian cuisine.  
@@ -33,13 +33,13 @@ Crown Asian Supermarket is frequently cited as Melbourne’s largest Asian groce
 
 ![Hong Kong Supermarket](/assets/images/hong-kong-supermarket.jpg)
 
-**Address:** 359-365 Clayton Rd, Clayton VIC 3168, Australia  
-**Phone:** +61 3 9562 8412  
-**Hours:**  
-- Monday – Sunday: 8:00 AM – 8:00 PM  
-**Website:** [Hong Kong Supermarket](https://www.hongkongsupermarket.com.au/)  
-**Google Maps:** [Find us here](https://maps.app.goo.gl/DCEtjJFhv6ENi6rVA)  
-**Store Size:** 3.447,43 m² (37.107,80 sq ft)  
+- **Address:** 359-365 Clayton Rd, Clayton VIC 3168, Australia  
+- **Phone:** +61 3 9562 8412  
+- **Hours:**  
+  - Monday – Sunday: 8:00 AM – 8:00 PM  
+- **Website:** [Hong Kong Supermarket](https://www.hongkongsupermarket.com.au/)  
+- **Google Maps:** [Find us here](https://maps.app.goo.gl/DCEtjJFhv6ENi6rVA)  
+- **Store Size:** 3.447,43 m² (37.107,80 sq ft)  
 
 ### The Go-To Store for the Eastern Suburbs
 Hong Kong Supermarket in Clayton is more than a mere supermarket; it serves as a community hub for Melbourne’s eastern suburbs. Renowned for its extensive selection of Chinese, Japanese, and Korean products, it has firmly established itself as a household name.  
@@ -53,13 +53,13 @@ Hong Kong Supermarket in Clayton is more than a mere supermarket; it serves as a
 
 ![TANG – The Asian Food Emporium](/assets/images/tang-the-asian-food-emporium.jpg)
 
-**Address:** 185 Russell St, Melbourne VIC 3000, Australia  
-**Phone:** +61 3 9663 3716  
-**Hours:**  
-- Monday – Sunday: 10:00 AM – 11:00 PM  
-**Website:** [TANG Food Emporium](https://www.tangfoodemporium.com.au/)  
-**Google Maps:** [Find us here](https://maps.app.goo.gl/9RDTsgXbFo714zqv7)  
-**Store Size:** 286,06 m² (3.079,14 sq ft)  
+- **Address:** 185 Russell St, Melbourne VIC 3000, Australia  
+- **Phone:** +61 3 9663 3716  
+- **Hours:**  
+  - Monday – Sunday: 10:00 AM – 11:00 PM  
+- **Website:** [TANG Food Emporium](https://www.tangfoodemporium.com.au/)  
+- **Google Maps:** [Find us here](https://maps.app.goo.gl/9RDTsgXbFo714zqv7)  
+- **Store Size:** 286,06 m² (3.079,14 sq ft)  
 
 ### A Specialist’s Paradise in the CBD
 TANG stands out for its specialty goods and premium imports. Unlike many supermarkets that focus on volume, TANG emphasizes variety and unique finds.  
@@ -73,13 +73,13 @@ TANG stands out for its specialty goods and premium imports. Unlike many superma
 
 ![Minh Phat](/assets/images/minh-phat.jpg)
 
-**Address:** 2-8 Nicholson St, Abbotsford VIC 3067, Australia  
-**Phone:** +61 3 9429 4028  
-**Hours:**  
-- Monday – Sunday: 9:30 AM – 6:30 PM  
-**Website:** [Minh Phat Facebook](https://www.facebook.com/minhphat1979/)  
-**Google Maps:** [Find us here](https://maps.app.goo.gl/DdcAg8nyhuGFGGBF9)  
-**Store Size:** 820,45 m² (8.831,29 sq ft)  
+- **Address:** 2-8 Nicholson St, Abbotsford VIC 3067, Australia  
+- **Phone:** +61 3 9429 4028  
+- **Hours:**  
+  - Monday – Sunday: 9:30 AM – 6:30 PM  
+- **Website:** [Minh Phat Facebook](https://www.facebook.com/minhphat1979/)  
+- **Google Maps:** [Find us here](https://maps.app.goo.gl/DdcAg8nyhuGFGGBF9)  
+- **Store Size:** 820,45 m² (8.831,29 sq ft)  
 
 ### Serving Melbourne Since 1979
 Minh Phat stands among the city’s most venerable and esteemed Asian supermarkets. Located in Abbotsford, alongside the historic “Little Saigon” district, it has for years been a reliable source of Asian groceries.  
@@ -93,14 +93,14 @@ Minh Phat stands among the city’s most venerable and esteemed Asian supermarke
 
 ![Asian Pantry AU](/assets/images/asian-pantry-au.jpg)
 
-**Address:** 12 Bando Rd, Springvale VIC 3171, Australia  
-**Phone:** +61 3 7018 8130  
-**Hours:**  
-- Monday – Friday: 9:00 AM – 5:00 PM  
-- Saturday – Sunday: Closed  
-**Website:** [Asian Pantry AU](https://asianpantry.com.au/)  
-**Google Maps:** [Find us here](https://maps.app.goo.gl/g2gh6yWyxCDqXUkp9)  
-**Store Size:** 609,69 m² (6.562,62 sq ft)  
+- **Address:** 12 Bando Rd, Springvale VIC 3171, Australia  
+- **Phone:** +61 3 7018 8130  
+- **Hours:**  
+  - Monday – Friday: 9:00 AM – 5:00 PM  
+  - Saturday – Sunday: Closed  
+- **Website:** [Asian Pantry AU](https://asianpantry.com.au/)  
+- **Google Maps:** [Find us here](https://maps.app.goo.gl/g2gh6yWyxCDqXUkp9)  
+- **Store Size:** 609,69 m² (6.562,62 sq ft)  
 
 ### A New Player with a Wide Range
 Although Asian Pantry AU lacks the long-standing roots of Minh Phat or Crown, it has swiftly become a dependable and contemporary supermarket in the southeast.  
