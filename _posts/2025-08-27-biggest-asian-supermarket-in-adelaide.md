@@ -13,13 +13,13 @@ In this article, we spotlight Adelaide’s five largest Asian supermarkets, deta
 
 ![Homes Supermarket](/assets/images/homes-supermarket.jpg)
 
-**Address:** 110 Gouger St, Adelaide SA 5000, Australia  
-**Phone:** +61 8 7006 2336  
-**Hours:**  
-- Monday – Sunday: 10:00 AM – 10:00 PM  
-**Website:** [Homes Supermarket](https://www.homessupermarket.com.au/)  
-**Google Maps:** [Find us here](https://maps.app.goo.gl/sguMpwstEo3LM5NW6)  
-**Store Size:** 835,87 m² (8.997,27 sq ft)  
+- **Address:** 110 Gouger St, Adelaide SA 5000, Australia  
+- **Phone:** +61 8 7006 2336  
+- **Hours:**  
+  - Monday – Sunday: 10:00 AM – 10:00 PM  
+- **Website:** [Homes Supermarket](https://www.homessupermarket.com.au/)  
+- **Google Maps:** [Find us here](https://maps.app.goo.gl/sguMpwstEo3LM5NW6)  
+- **Store Size:** 835,87 m² (8.997,27 sq ft)  
 
 ### A True One-Stop Shopping Experience
 Homes Supermarket is frequently regarded as one of Adelaide’s largest Asian supermarkets. Nestled on Gouger Street, it delivers far more than groceries—fresh seafood, a butcher counter, seasonal produce, and an in-house dim sum eatery are all part of the mix.  
@@ -33,15 +33,15 @@ Homes Supermarket is frequently regarded as one of Adelaide’s largest Asian su
 
 ![Younger Asian Grocery](/assets/images/younger-asian-grocery.jpg)
 
-**Address:** T49/575 North East Road, Gilles Plains SA 5086, Australia  
-**Phone:** +61 8 8123 4840  
-**Hours:**  
-- Monday – Friday: 8:30 AM – 8:00 PM  
-- Saturday: 8:30 AM – 5:00 PM  
-- Sunday: 10:00 AM – 5:00 PM  
-**Website:** [Younger Asian Grocery (Facebook)](http://www.facebook.com.au/YoungerAsianGrocery)  
-**Google Maps:** [Find us here](https://maps.app.goo.gl/Qd6RJVu7bC96ezyr9)  
-**Store Size:** 14.220,90 m² (153.072,46 sq ft)  
+- **Address:** T49/575 North East Road, Gilles Plains SA 5086, Australia  
+- **Phone:** +61 8 8123 4840  
+- **Hours:**  
+  - Monday – Friday: 8:30 AM – 8:00 PM  
+  - Saturday: 8:30 AM – 5:00 PM  
+  - Sunday: 10:00 AM – 5:00 PM  
+- **Website:** [Younger Asian Grocery (Facebook)](http://www.facebook.com.au/YoungerAsianGrocery)  
+- **Google Maps:** [Find us here](https://maps.app.goo.gl/Qd6RJVu7bC96ezyr9)  
+- **Store Size:** 14.220,90 m² (153.072,46 sq ft)  
 
 ### Variety and Freshness in One Place
 Younger Asian Grocery has earned a reputation as one of Adelaide’s most modern Asian supermarkets. The shop is immaculately clean and meticulously organized, and it is renowned for its expansive selection of Asian groceries from China, Japan, Korea, Thailand, and Malaysia.  
@@ -55,13 +55,13 @@ Younger Asian Grocery has earned a reputation as one of Adelaide’s most modern
 
 ![Parafield Plaza Supermarket](/assets/images/parafield-plaza-supermarket.jpg)
 
-**Address:** Shop 8/482 Salisbury Hwy, Parafield Gardens SA 5107, Australia  
-**Hours:**  
-- Monday – Friday: 9:00 AM – 6:30 PM  
-- Saturday – Sunday: 9:00 AM – 5:00 PM  
-**Website:** [Parafield Plaza Supermarket (Facebook)](https://www.facebook.com/ParafieldPlaza)  
-**Google Maps:** [Find us here](https://maps.app.goo.gl/RjpvQSTKgkrEYYTw8)  
-**Store Size:** 4.668,07 m² (50.246,73 sq ft)  
+- **Address:** Shop 8/482 Salisbury Hwy, Parafield Gardens SA 5107, Australia  
+- **Hours:**  
+  - Monday – Friday: 9:00 AM – 6:30 PM  
+  - Saturday – Sunday: 9:00 AM – 5:00 PM  
+- **Website:** [Parafield Plaza Supermarket (Facebook)](https://www.facebook.com/ParafieldPlaza)  
+- **Google Maps:** [Find us here](https://maps.app.goo.gl/RjpvQSTKgkrEYYTw8)  
+- **Store Size:** 4.668,07 m² (50.246,73 sq ft)  
 
 ### Fresh Produce and Authentic Imports
 Parafield Plaza Supermarket stands as a key shopping hub for shoppers in Adelaide’s northern suburbs. The shop focuses on Vietnamese and Chinese grocery items, giving special emphasis to fresh produce, meats, and pantry staples.  
@@ -75,14 +75,14 @@ Parafield Plaza Supermarket stands as a key shopping hub for shoppers in Adelaid
 
 ![Hong Kong Grocery](/assets/images/hong-kong-grocery.jpg)
 
-**Address:** 31 Moonta St, Adelaide SA 5000, Australia  
-**Hours:**  
-- Monday – Thursday: 10:00 AM – 10:00 PM  
-- Friday – Saturday: 9:00 AM – 10:30 PM  
-- Sunday: 10:00 AM – 10:00 PM  
-**Website:** [Hong Kong Grocery (Facebook)](https://www.facebook.com/hongkongsupermarket/)  
-**Google Maps:** [Find us here](https://maps.app.goo.gl/9dnrAUFK2M28WPTG6)  
-**Store Size:** 1.931,43 m² (20.789,69 sq ft)  
+- **Address:** 31 Moonta St, Adelaide SA 5000, Australia  
+- **Hours:**  
+  - Monday – Thursday: 10:00 AM – 10:00 PM  
+  - Friday – Saturday: 9:00 AM – 10:30 PM  
+  - Sunday: 10:00 AM – 10:00 PM  
+- **Website:** [Hong Kong Grocery (Facebook)](https://www.facebook.com/hongkongsupermarket/)  
+- **Google Maps:** [Find us here](https://maps.app.goo.gl/9dnrAUFK2M28WPTG6)  
+- **Store Size:** 1.931,43 m² (20.789,69 sq ft)  
 
 ### A Well-Stocked Chinatown Classic
 Hong Kong Grocery stands as one of Adelaide’s most celebrated Asian supermarkets, renowned for its extensive selection of Chinese and other Asian groceries. Although it is smaller than Homes Supermarket, it is widely praised for its extensive range and convenient location.  
@@ -96,11 +96,11 @@ Hong Kong Grocery stands as one of Adelaide’s most celebrated Asian supermarke
 
 ![Kim Wang Asian Grocery](/assets/images/kim-wang-asian-grocery.jpg)
 
-**Address:** 61/63 Grote St, Adelaide SA 5000, Australia  
-**Phone:** +61 8 8410 1555  
-**Status:** Permanently Closed  
-**Google Maps:** [Find us here](https://maps.app.goo.gl/kwTwkvjz4ZZku9SD7)  
-**Store Size:** 7.195,01 m² (77.446,47 sq ft)  
+- **Address:** 61/63 Grote St, Adelaide SA 5000, Australia  
+- **Phone:** +61 8 8410 1555  
+- **Status:** Permanently Closed  
+- **Google Maps:** [Find us here](https://maps.app.goo.gl/kwTwkvjz4ZZku9SD7)  
+- **Store Size:** 7.195,01 m² (77.446,47 sq ft)  
 
 ### A Historic Supermarket Remembered
 Kim Wang Asian Grocery came to prominence as one of Adelaide’s most iconic Asian supermarkets, especially cherished by international students and CBD residents. Famous for its extensive selection of Chinese, Japanese, Korean, and Southeast Asian goods, the supermarket stood as a long-standing landmark in the city centre until it ultimately closed its doors.  
